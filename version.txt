@@ -1,2 +1,2 @@
-v1.38
+v1.36
 Added an update checker

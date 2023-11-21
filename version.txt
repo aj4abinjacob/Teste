@@ -1,1 +1,2 @@
 v1.36
+Added an update checker

@@ -1,2 +1,7 @@
-v1.36
+v1.37
 Added an update checker
+Added few more date formats
+New method for finding duplicates
+Addded an option to keep the lengthiest duplicate Review
+Please install sparse-dot-topn using
+pip install sparse-dot-topn

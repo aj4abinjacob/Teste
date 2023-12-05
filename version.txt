@@ -1,4 +1,4 @@
 v1.38
 Added a new date format
 update on finding duplicates
-
+Added Review/Product Rating Normalizer

@@ -1,2 +1,2 @@
-v1.38
+v1.39
 Bug fixes on duplicate identification

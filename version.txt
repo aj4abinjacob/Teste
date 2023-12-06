@@ -1,2 +1,3 @@
-v1.40
-Bug fixes
+v1.41
+progress bar for few steps in duplicate identification
+bug fixes 

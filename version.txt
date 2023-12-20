@@ -1,3 +1,2 @@
-v1.41
-progress bar for few steps in duplicate identification
+v1.44
 bug fixes 

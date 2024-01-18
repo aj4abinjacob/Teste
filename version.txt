@@ -1,2 +1,3 @@
-v1.47
-bug fixes 
+v1.48
+bug fixes to date conversion downlaod
+changes to similarity finder 

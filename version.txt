@@ -1,3 +1,9 @@
-v1.48
-bug fixes for date conversion
-changes to similarity finder 
+v1.49
+Bug fixes: I've addressed several issues reported by users to enhance the overall stability and performance of the application.
+Date Conversion Changes: The new version includes updates to the date conversion functionality, improving accuracy and reliability.
+Amazon Review Link Generator Changes: I've made adjustments to the Amazon review link generator for a more seamless experience.
+
+Note to Users:
+
+To ensure smooth operation of the new version, please install the required dateparser library by using the following command:
+pip install dateparser

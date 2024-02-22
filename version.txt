@@ -1,7 +1,3 @@
-v1.50
-Bug fixes: Fixed an issue with date conversion
-New feature: Added questions detector
+v1.51
+Bug fixes: Fixed issues with date conversion, language detection and question detection
 
-Note to Users:
-To ensure smooth operation of the new version, please install the required dateparser library by using the following command:
-pip install dateparser

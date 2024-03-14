@@ -1,3 +1,10 @@
-v1.52
-Bug fixes: Fixed an issue with finding similar items
+v1.53
+Bug fixes: 
+Fixed an issue with date conversion
+
+Additional Features:
+Added question detector and remover
+Changed the way word count is calculated
+Added an option to detect and keep lengthy reviews as a separate file, the current word count threshold is greater than 1000 words
+Added file name checks in the split file module
 

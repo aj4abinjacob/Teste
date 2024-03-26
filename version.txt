@@ -1,10 +1,8 @@
-v1.53
+v1.54
 Bug fixes: 
-Fixed an issue with date conversion
+Fixed issue with ftfy module
 
 Additional Features:
-Added question detector and remover
-Changed the way word count is calculated
-Added an option to detect and keep lengthy reviews as a separate file, the current word count threshold is greater than 1000 words
-Added file name checks in the split file module
-
+Brand Wise Chart Added
+Sentiment QC Script added as an additional module
+Repeating Characters Detection and Removal

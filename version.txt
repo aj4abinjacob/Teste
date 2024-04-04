@@ -1,8 +1,4 @@
-v1.54
-Bug fixes: 
-Fixed issue with ftfy module
-
-Additional Features:
-Brand Wise Chart Added
-Sentiment QC Script added as an additional module
-Repeating Characters Detection and Removal
+v1.55
+Bug Fixes
+The script will not work if it finds future dates
+New method for extracting number from Rating columns

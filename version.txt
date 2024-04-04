@@ -1,4 +1,4 @@
-v1.55
+v1.56
 Bug Fixes
 The script will not work if it finds future dates
 New method for extracting number from Rating columns

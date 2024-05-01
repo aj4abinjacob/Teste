@@ -1,4 +1,4 @@
-v1.60
+v1.61
 Bug Fixes
 Updates to viability qc module
-Renamed to QC script as it contains (Viablity QC, Beagle Input QC, Sentiment Dedup QC)
+Added option to manually enter keyword for Sponsored Keywords Removal

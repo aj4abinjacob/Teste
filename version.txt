@@ -1,5 +1,5 @@
 v1.62
 1. Bug Fixes
 2. Added config file for changing batch size for duplicate review identification
-If you are getting memory error while duplicate review identification open the config.json file and reduce the value of "similar_reviews_chunk_size"
+If you are getting memory error while duplicate review identification open the config.json file and reduce the value of "similar_reviews_chunk_size" run the script again
 3. Changed Amazon Review Link Generator - Now it opens up the colab link

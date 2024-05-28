@@ -1,4 +1,5 @@
-v1.61
-Bug Fixes
-Updates to viability qc module
-Added option to manually enter keyword for Sponsored Keywords Removal
+v1.62
+1. Bug Fixes
+2. Added config file for changing batch size for duplicate review identification
+If you are getting memory error while duplicate review identification open the config.json file and reduce the value of "similar_reviews_chunk_size"
+3. Changed Amazon Review Link Generator - Now it opens up the colab link

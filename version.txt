@@ -1,4 +1,3 @@
-v1.66
+v1.67
 Bug fixes
-Added module to remove detect and remove brand comments from social media data
 

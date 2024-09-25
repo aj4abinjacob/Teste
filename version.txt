@@ -1,4 +1,3 @@
-v1.68
-Added comparison reviews detector
-Added few more date formats
+v1.69
+Bug Fixes
 
